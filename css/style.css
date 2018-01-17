@@ -59,6 +59,16 @@ a:hover {
 	border-color: #fff;
 }
 
+.reset-button {
+	margin: 9px auto;
+    background: #25a5b5;
+    border: none;
+    color: #fff;
+    font-size: 15px;
+    padding: 3px 23px;
+    border-radius: 2px;
+}
+
 p {
 	font-family: "Droid Serif", serif;
 	line-height: 26px;
